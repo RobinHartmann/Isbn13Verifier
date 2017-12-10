@@ -13,7 +13,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Troubleshooting
 
-#### Q: How do I get the app to run? It just opens the "Edit configuration" window with "Error: Please select Android SDK". 
+#### Q: How do I get the app to run? It just opens the "Edit configuration" dialog with "Error: Please select Android SDK". 
 Just sync gradle by clicking <img src="docs/images/toolbar-sync-gradle.png" height="24"> in the toolbar and it should work.
 
 ## Deployment
