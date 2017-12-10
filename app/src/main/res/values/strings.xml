@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ISBN-13 Verifier</string>
+    <string name="verificationResultInvalidLength">Invalid length. An ISBN-13 contains exactly 13 digits.</string>
+    <string name="verificationResultInvalidCharacter">Invalid character. An ISBN-13 can only contain numbers and hyphens or spaces for separation.</string>
+    <string name="verificationResultInvalidCheckDigit">Invalid check digit. Expected check digit %1$d, got %2$d instead.</string>
+    <string name="Isbn13VerifierResultIllegalArgument" translatable="false">Invalid results must specify a rejection reason.</string>
+    <string name="calculateCheckDigitResultInvalidLength">Invalid length. An ISBN-13 without check digit requires exactly 12 digits.</string>
+    <string name="Isbn13VerifierCalculateCheckDigitInternalIllegalArgument" translatable="false">To calculate the check digit of an ISBN-13 exactly 12 digits are needed.</string>
+    <string name="etInputHint">ISBN-13</string>
+    <string name="bGenerateCheckDigit">Generate Check Digit</string>
+    <string name="bVerify">Verify</string>
+    <string name="calculateCheckDigitResultEmptyInput">Empty input. Please enter 12 digits of an ISBN-13.</string>
+    <string name="mainActivityCheckDigitGeneratedSuccessfully">Check digit successfully generated.</string>
+    <string name="mainActivityVerifiedSuccessfully">ISBN-13 successfully verified.</string>
+    <string name="verificationResultEmptyInput">Empty input. Please enter all 13 digits of an ISBN-13.</string>
+</resources>

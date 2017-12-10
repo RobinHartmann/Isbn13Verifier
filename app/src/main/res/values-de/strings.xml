@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ISBN-13 Überprüfer</string>
+    <string name="etInputHint">ISBN-13</string>
+    <string name="bVerify">Überprüfen</string>
+    <string name="bGenerateCheckDigit">Generiere Prüfziffer</string>
+    <string name="calculateCheckDigitResultEmptyInput">Leere Eingabe. Bitte geben Sie 12 Ziffern einer ISBN-13 ein.</string>
+    <string name="calculateCheckDigitResultInvalidLength">Ungültige Länge. Eine ISBN-13 ohne Prüfziffer muss genau 12 Ziffern lang sein.</string>
+    <string name="mainActivityCheckDigitGeneratedSuccessfully">Prüfziffer erfolgreich generiert.</string>
+    <string name="mainActivityVerifiedSuccessfully">ISBN-13 erfolgreich überprüft.</string>
+    <string name="verificationResultInvalidCharacter">Ungültiges Zeichen. Eine ISBN-13 darf nur Nummern und Trennstriche oder Leerzeichen zur Trennung enthalten.</string>
+    <string name="verificationResultInvalidCheckDigit">Ungültige Prüfziffer. Erwartet wurde %1$d, stattdessen wurde %2$d übergeben.</string>
+    <string name="verificationResultInvalidLength">Ungültige Länge. Eine ISBN-13 muss genau 13 Ziffern lang sein.</string>
+    <string name="verificationResultEmptyInput">Leere Eingabe. Bitte geben Sie alle 13 Ziffern einer ISBN-13 ein.</string>
+</resources>
