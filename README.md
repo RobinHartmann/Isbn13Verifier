@@ -24,7 +24,7 @@ Just sync gradle by clicking <img src="docs/images/toolbar-sync-gradle.png" heig
 
 ### Installation
 
-Just copy over the generated apk and install it.
+Just copy over the apk and install it.
 
 ## Authors
 
