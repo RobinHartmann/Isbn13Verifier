@@ -28,7 +28,7 @@ Just copy over the apk and install it.
 
 ## Authors
 
-* **Robin Hartmann** - *Initial work* - [RobinHartmann](https://github.com/RobinHartmann)
+* **Robin Hartmann** - *Initial work* - [robin-hartmann](https://github.com/robin-hartmann)
 
 ## License
 
