@@ -7,11 +7,11 @@ Verifies and generates check digits for ISBN-13 numbers
 
 These instructions will get you a release of this project up and running on your local machine, so that you can start using it.
 
-### 📋 Prerequisites
+### Prerequisites
 
 * [Android 4.0.3+](https://developer.android.com/about/versions/android-4.0.3.html)
 
-### 🚀 Getting Started
+### Getting Started
 
 Just copy over the apk and install it.
 
@@ -19,11 +19,11 @@ Just copy over the apk and install it.
 
 These instructions will get you a copy of this project up and running on your local machine for development and testing purposes.
 
-### 📋 Prerequisites
+### Prerequisites
 
 * [Android Studio](https://developer.android.com/studio/index.html) - The Official IDE for Android
 
-### 🐞 Troubleshooting
+### Troubleshooting
 
 #### Q: How do I get the app to run? It just opens the "Edit configuration" dialog with "Error: Please select Android SDK". 
 Just sync gradle by clicking <img src="docs/images/toolbar-sync-gradle.png" height="24"> in the toolbar and it should work.
