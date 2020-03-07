@@ -5,6 +5,8 @@ Verifies and generates check digits for ISBN-13 numbers
 
 ## ⚡ Deployment
 
+These instructions will get you a release of this project up and running on your local machine, so that you can start using it.
+
 ### 📋 Prerequisites
 
 * [Android 4.0.3+](https://developer.android.com/about/versions/android-4.0.3.html)
